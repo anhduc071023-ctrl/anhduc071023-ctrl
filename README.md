@@ -1,29 +1,36 @@
-                    👨‍💻 LÝ ĐỨC ANH
+                       LÝ ĐỨC ANH
 
-              🎮 UNITY GAME DEVELOPER
+                 UNITY GAME DEVELOPER
 
        C# • Unity • Game AI • Gameplay Programming
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎮 MoveStopMove
-
-🔥 TripleTileMatch
-  
-
-⚔️ 
-
-
-🏃 Jump Hero
-   Platformer Game
-   [Gameplay] [Source Code]
-
+   3D Hyper-Casual Survival Game
+   Unity • C# • Google AdMob
+   
+🎮 TripleTileMatch
+   Puzzle Game
+   Unity • C# • DOTween 
+   
+🎮 Legends-Adventure
+   2D Top-Down Action RPG
+   Unity • C# • Gameplay Systems
+   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-🛠 TECHNICAL SKILLS
+TECHNICAL SKILLS
 
 Unity    
 C#       
 Git      
 Blender   
 Game AI 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTACT
+
+GitHub: anhduc071023-ctrl
+Email: ducanhuc071003@gmail.com
