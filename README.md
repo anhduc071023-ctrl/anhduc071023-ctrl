@@ -1,16 +1,31 @@
-## Hi there 👋
+                    👨‍💻 LÝ ĐỨC ANH
 
-<!--
-**anhduc071023-ctrl/anhduc071023-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+              🎮 UNITY GAME DEVELOPER
 
-Here are some ideas to get you started:
+       C# • Unity • Game AI • Gameplay Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎮 FEATURED PROJECTS
+
+🔥 Move stop move
+   Action Adventure Game
+   [Gameplay] [Source Code]
+
+⚔️ Blade Flash
+   Mobile Action Game
+   [Gameplay] [Source Code]
+
+🏃 Jump Hero
+   Platformer Game
+   [Gameplay] [Source Code]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 TECHNICAL SKILLS
+
+Unity    
+C#       
+Git      
+Blender   
+Game AI 
