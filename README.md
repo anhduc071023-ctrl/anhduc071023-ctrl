@@ -7,15 +7,15 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎮 MoveStopMove
-   3D Hyper-Casual Survival Game
+   (3D Hyper-Casual Survival Game)
    Unity • C# • Google AdMob
    
 🎮 TripleTileMatch
-   Puzzle Game
+   (Puzzle Game)
    Unity • C# • DOTween 
    
 🎮 Legends-Adventure
-   2D Top-Down Action RPG
+   (2D Top-Down Action RPG)
    Unity • C# • Gameplay Systems
    
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -33,4 +33,4 @@ Game AI
 CONTACT
 
 GitHub: anhduc071023-ctrl
-Email: ducanhuc071003@gmail.com
+Email: anhduc071003@gmail.com
